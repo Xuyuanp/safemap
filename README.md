@@ -1,0 +1,2 @@
+# safemap
+goroutine-safe map
